@@ -16,5 +16,17 @@
     "express-session": "^1.15.6",
     "mysql": "^2.18.1",
     "reload": "^2.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LondonRetail2021/WebSourceCode.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/LondonRetail2021/WebSourceCode/issues"
+  },
+  "homepage": "https://github.com/LondonRetail2021/WebSourceCode#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
   }
 }
