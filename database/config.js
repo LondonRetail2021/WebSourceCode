@@ -1,11 +1,11 @@
 var mysql = require('mysql');
 var connection = mysql.createConnection({
-  host     : 'database-1.cwftzhp9wavv.eu-west-2.rds.amazonaws.com',
+  host     : 'lrdatabase.cpajrhhjffqz.eu-west-2.rds.amazonaws.com',
   port     : '3306',
   user     : 'admin',
-  password : '12345678',
+  password : '123456789',
  socket   : 'C:/xampp/mysql/mysql.sock',
-  database : 'LondonRetail'
+  database : 'lrdatabase'
 });
 
 connection.connect(function(err) {
